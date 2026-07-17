@@ -57,7 +57,6 @@ vec3 dcsPalette(int pal) {
          : pal == 3 ? vec3(0.33, 1.00, 1.00)   // DreamLiner — aqua (бывший Chayosi)
          : pal == 4 ? vec3(1.00, 1.00, 0.33)   // SmileKek — yellow
          : pal == 5 ? vec3(1.00, 0.27, 0.24)   // DaFigVam — мухоморно-красный
-         : pal == 6 ? vec3(1.00, 0.45, 1.00)   // мысли — light purple
          :            vec3(1.0);               // 0 — белый
 
 }
