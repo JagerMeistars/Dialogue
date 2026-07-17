@@ -1,0 +1,30 @@
+{
+  "providers": [
+    {
+      "type": "reference",
+      "id": "dcs:offsets"
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:block/red_mushroom.png",
+      "height": 16,
+      "ascent": 15,
+      "chars": ["🍄"]
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/space"
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/default",
+      "filter": {
+        "uniform": false
+      }
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/unifont"
+    }
+  ]
+}

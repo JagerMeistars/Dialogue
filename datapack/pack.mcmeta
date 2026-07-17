@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": "dcs dialog system",
+    "pack_format": 111,
+    "min_format": 111,
+    "max_format": 9999
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "dcs:font/jagermeistars_icon.png",
+      "height": 16,
+      "ascent": 11,
+      "chars": [
+        "\ue001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "dcs:font/jagermeistars_though_icon.png",
+      "height": 16,
+      "ascent": 11,
+      "chars": [
+        "\ue011"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "dcs:font/chayosi_icon.png",
+      "height": 16,
+      "ascent": 11,
+      "chars": [
+        "\ue002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "dcs:font/chayosi_though_icon.png",
+      "height": 16,
+      "ascent": 11,
+      "chars": [
+        "\ue012"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "dcs:font/dreamliner_icon.png",
+      "height": 16,
+      "ascent": 11,
+      "chars": [
+        "\ue003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "dcs:font/dreamliner_though_icon.png",
+      "height": 16,
+      "ascent": 11,
+      "chars": [
+        "\ue013"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "dcs:font/smilekek_icon.png",
+      "height": 16,
+      "ascent": 11,
+      "chars": [
+        "\ue004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "dcs:font/smilekek_though_icon.png",
+      "height": 16,
+      "ascent": 11,
+      "chars": [
+        "\ue014"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "dcs:font/dafigvam_icon.png",
+      "height": 16,
+      "ascent": 11,
+      "chars": [
+        "\ue005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "dcs:font/dafigvam_though_icon.png",
+      "height": 16,
+      "ascent": 11,
+      "chars": [
+        "\ue015"
+      ]
+    }
+  ]
+}
